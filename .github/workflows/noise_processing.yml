@@ -4,7 +4,7 @@ on:
   # To run manually
   workflow_dispatch:
   schedule:
-  - cron: "23 22 7 10 2024"
+    - cron: "23 22 7 10 2024"
   # push: 
     # branches:
     #  - main
